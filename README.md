@@ -1,2 +1,2 @@
-# HTML5 Boilerplate Template | base
-Basic template for HTML5. Mainly as a reference &amp; starting point for other projects. This includes basic file structure and some normalizing/reset css files.
+# HTML5 Boilerplate Template | meta
+Basic template with *meta-data, CDN's and single page application info (for saving the site onto mobile devices)*for HTML5. Mainly as a reference &amp; starting point for other projects. This includes basic file structure and an index.html, some normalizing/reset css files, blank javascript files, etc...
