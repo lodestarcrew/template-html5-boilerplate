@@ -12,6 +12,6 @@ Basic template for HTML5. Mainly as a reference &amp; starting point for other p
 - __develop-*__ - development branches for various users, this is mainly for testing and management for other branches.
 
 ### Usage
-Please pull or download use the branch relative to the project that you will be working on. This repo serves as only a point of reference for templates used in future development. 
+Please pull or download; and use the branch relative to the project that you will be working on. This repo serves as only a point of reference for templates used in future development. 
 
 Please remove the *.gitignore* & *.DS_Store* files when packaging for banners (this will affect the k-size).
