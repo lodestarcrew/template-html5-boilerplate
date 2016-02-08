@@ -1,6 +1,5 @@
 # HTML5 Boilerplate Template
 
-## template-html5-boilerplate
 Basic template for HTML5. Mainly as a reference &amp; starting point for other projects.
 
 ### Branch Descriptions
