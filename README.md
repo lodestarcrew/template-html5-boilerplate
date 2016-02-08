@@ -12,4 +12,4 @@ Basic template for HTML5. Mainly as a reference &amp; starting point for other p
 - __develop-*__ - development branches for various users, this is mainly for testing and management for other branches.
 
 ### Usage
-Please use the branch relative to the project that you will be working on.
+Please download use the branch relative to the project that you will be working on. This repo serves as only a point of reference for templates used in future development.
