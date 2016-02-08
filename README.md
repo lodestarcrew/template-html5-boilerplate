@@ -6,7 +6,7 @@ Basic template for HTML5. Mainly as a reference &amp; starting point for other p
 
 - __master__ - main branch for documentation & discovery.
 - __base__ - branch containing the most basic template for general HTML5 development.
-- __meta__ - basic template with meta-data for various social media platforms, CDN's and single page application paths (for saving the site onto mobile devices home screens). Mainly as a reference & starting point for other projects. This includes basic file structure and an index.html, some normalizing/reset css files, blank javascript files, etc...
+- __meta__ - rough template with meta-data for various social media platforms, CDN's and single page application paths (for saving the site onto mobile devices home screens). Mainly as a reference & starting point for other projects. This includes basic file structure and an index.html, some normalizing/reset css files, blank javascript files, etc...
 - __banner-dcm-html5-nonRich__ - branch containing basic non-rich banners for HTML5, mobile and in-app (see: https://support.google.com/richmedia/answer/6279525?hl=en&ref_topic=6279454). Remember to remove the *.gitignore* file.
 - __banner-dcm-swiffy-nonRich__ - branch containing basic non-rich banners using *SWIFFY* for HTML5, mobile and in-app (see: https://developers.google.com/swiffy/). Remember to remove the *.gitignore* file.
 - __develop-*__ - development branches for various users, this is mainly for testing and management for other branches.
