@@ -14,4 +14,4 @@ Basic template for HTML5. Mainly as a reference &amp; starting point for other p
 ### Usage
 Please download use the branch relative to the project that you will be working on. This repo serves as only a point of reference for templates used in future development. 
 
-Please note the .gitignore file when packaging for banners (this will affect the k-size).
+Please remove the .gitignore & .DS_Store file when packaging for banners (this will affect the k-size).
