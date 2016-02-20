@@ -2,6 +2,10 @@
 
 ### Custom .gitignore ###
 
+.buildpath
+.project
+.settings
+.vagrant
 
 ###########################
 
