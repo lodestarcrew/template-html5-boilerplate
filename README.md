@@ -19,7 +19,7 @@ Basic template for HTML5. Mainly as a reference &amp; starting point for other p
 Please pull or download this project; and rename the *.html you decide to use into "index.html" 
 Delete all other HTML files you are not using.
 
-In each *.html file there update "_REPLACE_" with appropriate information. 
+In each *.html file there update the text"\_REPLACE\_" with appropriate information. 
 
 #### CSS
 Included in this project are two types of CSS files use to "reset or normalize" styles across all browsers. Please us normalize.css OR reset.css in your index.html files NOT both.
