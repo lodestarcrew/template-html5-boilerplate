@@ -1,12 +1,12 @@
 # HTML5 Boilerplate Template
 
-Basic template for HTML5. Mainly as a reference &amp; starting point for other projects.
+Basic template for HTML5. Mainly as a reference &amp; starting point for other projects. This includes basic file structure and an index.html, some normalizing/reset css files, blank javascript files, etc...
 
 ### HTML Template Descriptions
 
 - __base.html__ - the most basic template for general HTML5 development.
 - __usual.html__ - the typical html template with basic meta-data, css and styles.
-- __meta.html__ - rough template with meta-data for various social media platforms, CDN's and single page application paths (for saving the site onto mobile devices home screens). Mainly as a reference & starting point for other projects. This includes basic file structure and an index.html, some normalizing/reset css files, blank javascript files, etc...
+- __meta.html__ - rough template with meta-data for various social media platforms, CDN's and icon image paths for saving the site onto mobile devices home screens.
 - __banner-dcm-html5-nonRich.html__ -  non-rich banner html file for HTML5, mobile and in-app (see: https://support.google.com/richmedia/answer/6279525?hl=en&ref_topic=6279454). Remember to remove the *.gitignore* file.
 - __banner-dcm-swiffy-nonRich.html__ - basic non-rich banner html file using *SWIFFY* for HTML5, mobile and in-app (see: https://developers.google.com/swiffy/). Remember to remove the *.gitignore* file.
 
@@ -18,6 +18,8 @@ Basic template for HTML5. Mainly as a reference &amp; starting point for other p
 #### HTML
 Please pull or download this project; and rename the *.html you decide to use into "index.html" 
 Delete all other HTML files you are not using.
+
+In each *.html file there update "_REPLACE_" with appropriate information. 
 
 #### CSS
 Included in this project are two types of CSS files use to "reset or normalize" styles across all browers. Please us normalize.css OR reset.css in your index.html files NOT both.
