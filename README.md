@@ -11,7 +11,7 @@ Basic template for HTML5. Mainly as a reference &amp; starting point for other p
 - __banner-dcm-swiffy-nonRich.html__ - basic non-rich banner html file using *SWIFFY* for HTML5, mobile and in-app (see: https://developers.google.com/swiffy/).
 
 ### Branch Descriptions
-- __master-*__ - production branch. This branch represents the latest and greatest approved boilerplates.
+- __master__ - production branch. This branch represents the latest and greatest approved boilerplates.
 - __develop-*__ - development branches for various users, this is mainly for testing and management for other branches.
 
 ### Usage
