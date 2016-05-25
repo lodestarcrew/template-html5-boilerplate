@@ -1,6 +1,6 @@
 # HTML5 Boilerplate Template
 
-Basic template for HTML5. Mainly as a reference &amp; starting point for other projects. This includes basic file structure and an index.html, some normalizing/reset css files, blank javascript files, etc...
+Basic template for HTML5. Mainly as a reference &amp; starting point for other projects. This includes basic file structure and an index.html, some normalizing/reset css files, blank javascript files, etc... This repo serves as only a point of reference please feel free to update and change in whatever manner suits you best.
 
 ### HTML Template Descriptions
 
@@ -22,14 +22,14 @@ Delete all other HTML files you are not using.
 In each *.html file there update the text "\_REPLACE\_" with appropriate information. 
 
 #### CSS
-Included in this project are two types of CSS files use to "reset or normalize" styles across all browsers. Please us normalize.css OR reset.css in your index.html files NOT both.
-
+Definition of CSS files:
 - __fonts.css__ - put converted web font CSS declarations here.
 - __main.css__ - put the CSS you will be using for your main site here.
 - __normalize.css__ - this CSS is used to normalize all styles across all browser for consistency
 - __reset.css__ - this is use to remove ALL styling across all browsers
 
-This repo serves as only a point of reference for templates used in future development. 
+Included in this project are two types of CSS files use to "reset or normalize" styles across all browsers. 
+Please us normalize.css OR reset.css in your index.html files NOT both.
 
 ### NOTE
 REMEMBER to remove the *.gitignore* & *.DS_Store* files when packaging for banners (this will affect the k-size).
