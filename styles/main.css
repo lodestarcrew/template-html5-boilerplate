@@ -1,10 +1,20 @@
+
 body {
 	width: 100%;
 	height: 100%;
 	font-family: HelveticaNeue-Bold, Helvetica, Arial, sans-serif;
 }
 
-ul{
+a:link,
+a:visited,
+a:hover,
+a:active {
+	outline: none;
+	border: none;
+	text-decoration: none;
+}
+
+ul {
 	list-style: none;
 }
 
@@ -13,8 +23,21 @@ video {
 	-webkit-transform: translate3d(0, 0, 0);
 }
 
-.sprite {
-	display: block;
+/* 
+	Tells the browser to calculate box model 
+	size by including the border and padding.
+*/
+* { 
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+/*
+	CSS class to hide text visually, but still 
+	allows screen readers and bots to read it.
+*/
+.maskbot {
+	visibility: hidden;
 	width: 0;
 	height: 0;
 	margin: 0;
@@ -22,6 +45,25 @@ video {
 	overflow: hidden;
 	text-indent: -99999px;
 }
+
+/* 
+	CSS class you can apply to a div to have it 
+	self-clear its children. Add this to the parent 
+	of what you want floated. This makes it so the 
+	divs that come after it don’t wrap around if the 
+	parent was floated. 
+*/
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+* html .clearfix             { zoom: 1; } /* IE6 */
+*:first-child+html .clearfix { zoom: 1; } /* IE7 */
 
 .scaffold {
 
