@@ -52,6 +52,7 @@ video {
 	of what you want floated. This makes it so the 
 	divs that come after it don’t wrap around if the 
 	parent was floated. 
+	https://css-tricks.com/snippets/css/clear-fix/
 */
 
 .clearfix:after {
@@ -64,6 +65,7 @@ video {
 }
 * html .clearfix             { zoom: 1; } /* IE6 */
 *:first-child+html .clearfix { zoom: 1; } /* IE7 */
+
 
 .scaffold {
 
